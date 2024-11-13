@@ -16,10 +16,10 @@ This program analyzes sales data from an ice cream parlour. Given a `.txt` file 
 1. **Clone or Download** the repository containing the program file and `sales_data.txt`.
 2. **Install Node.js** (if you haven't already).
 3. **Run the Program**:
-   - Open a terminal and navigate to the directory containing `sales_analysis.js` and `sales_data.txt`.
+   - Open a terminal and navigate to the directory containing `app.js` and `sales_data.txt`.
    - Execute the following command:
      
-     node sales_analysis.js
+     node app.js
      
 
 ## Program Output
