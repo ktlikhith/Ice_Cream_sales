@@ -38,10 +38,19 @@ The program calculates and displays:
 
 ## Example Output
 
-Total Sales of the Store: 15000
+Total Sales of the Store: 4583270
 
-Month-wise Sales Totals: 2019-01: 5000 2019-02: 10000
+Month-wise Sales Totals:
+2019-01: 1421330
+2019-02: 1422350
+2019-03: 1739590
 
-Month-wise Most Popular Item and Item Generating Most Revenue: 2019-01 - Most Popular Item: Death by Chocolate (30 units), Most Revenue Item: Death by Chocolate (₹5400) 2019-02 - Most Popular Item: Cake Fudge (25 units), Most Revenue Item: Cake Fudge (₹3750)
+Month-wise Most Popular Item and Item Generating Most Revenue:
+2019-01 - Most Popular Item: Hot Chocolate Fudge (2673 units), Most Revenue Item: Hot Chocolate Fudge (₹320760)
+2019-02 - Most Popular Item: Hot Chocolate Fudge (2636 units), Most Revenue Item: Hot Chocolate Fudge (₹316320)
+2019-03 - Most Popular Item: Hot Chocolate Fudge (3100 units), Most Revenue Item: Hot Chocolate Fudge (₹372000)
 
-Statistics for the Most Popular Item Each Month: 2019-01 - Death by Chocolate: Min Orders = 5, Max Orders = 15, Average Orders = 10.00 2019-02 - Cake Fudge: Min Orders = 2, Max Orders = 10, Average Orders = 7.50
+Statistics for the Most Popular Item Each Month:
+2019-01 - Hot Chocolate Fudge: Min Orders = 1, Max Orders = 5, Average Orders = 3.03
+2019-02 - Hot Chocolate Fudge: Min Orders = 1, Max Orders = 5, Average Orders = 3.10
+2019-03 - Hot Chocolate Fudge: Min Orders = 1, Max Orders = 5, Average Orders = 2.96
